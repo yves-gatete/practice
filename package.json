@@ -4,7 +4,7 @@
   "description": "Heroku + Mongo + Node",
   "main": "hello.js",
   "scripts": {
-    "start": "node companies_find.js"
+    "start": "hello.js"
   },
   "repository": {
     "type": "git",
