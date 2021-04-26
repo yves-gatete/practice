@@ -2,7 +2,7 @@
   "name": "companies",
   "version": "1.0.0",
   "description": "Heroku + Mongo + Node",
-  "main": "companies_find.js",
+  "main": "hello.js",
   "scripts": {
     "start": "node companies_find.js"
   },
